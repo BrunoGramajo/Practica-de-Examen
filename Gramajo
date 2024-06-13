@@ -28,3 +28,6 @@ git commit -m "..." ----> descripcion coherente
 git branch -m main ----> abrir rama
  
 git push -u origin main ----> subir archivo a rama main.
+
+la maquina
+
