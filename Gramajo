@@ -1,0 +1,30 @@
+Paso a paso
+
+1- Logearse.
+ 
+git congif --global user name/email
+
+2- Inicar un repositorio.
+
+git init
+
+3- Indicar repositorio.
+
+git remote -v
+git remote remove origin
+git remote add origin (link)
+
+4(bis)-
+
+
+git status
+
+4- Preparar y subir  archivo.
+
+git add (name.txt) ---> guardar/preparar archivo
+
+git commit -m "..." ----> descripcion coherente
+
+git branch -m main ----> abrir rama
+ 
+git push -u origin main ----> subir archivo a rama main.
