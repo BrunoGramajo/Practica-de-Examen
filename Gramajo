@@ -2,7 +2,7 @@ Paso a paso
 
 1- Logearse.
  
-git congif --global user name/email
+git config --global user name/email
 
 2- Inicar un repositorio.
 
@@ -31,3 +31,4 @@ git push -u origin main ----> subir archivo a rama main.
 
 
 
+a
